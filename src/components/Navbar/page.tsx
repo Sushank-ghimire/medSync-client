@@ -22,7 +22,7 @@ const Navbar = () => {
         <NavLink to="/contact">Contact</NavLink>
         <a
           className="border border-slate-400 font-semibold text-xs px-4 py-2 rounded-full capitalize"
-          href="http://localhost:5173/"
+          href="http://localhost:5174/"
           target="_blank"
         >
           admin panel
